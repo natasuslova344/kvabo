@@ -13,7 +13,7 @@
   ========================================================= */
   const TELEGRAM_CONFIG = {
     botToken: "8205038998:AAHRPtTEaK-JObKjbn27AoX_0Y3qBO5kYkQ",   // например: 7123456789:AAFxxx...
-    chatId:   "556442193"      // например: 123456789
+    chatId:   "963195256"      // например: 123456789
   };
 
   const portfolioItems = [
